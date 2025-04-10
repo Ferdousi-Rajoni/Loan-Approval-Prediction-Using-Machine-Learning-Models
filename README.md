@@ -1,1 +1,4 @@
 # Loan-Approval-Prediction-Using-Machine-Learning-Models
+This project, developed for the CS-712: Foundations of Statistics and Machine Learning course, aims to predict loan approval outcomes ("Approved" or "Rejected") using a variety of supervised machine learning techniques. The dataset, sourced from Kaggle, contains 4,268 records with 13 features, including applicant income, credit scores, and asset values. Our goal is to build robust models to assist financial institutions in assessing creditworthiness while addressing challenges like class imbalance and feature selection.
+
+The final report, submitted on April 10, 2025, by Jannatul Ferdousi Rajoni (200530077), Varun Biren Majithia (200532798), and Samarth Subhash Deshpande (200532782), details the methodology, results, and conclusions. Gradient Boosting emerged as the top-performing model with ~98.5% accuracy.
